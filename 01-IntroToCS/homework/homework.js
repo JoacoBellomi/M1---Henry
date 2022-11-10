@@ -32,6 +32,7 @@ function DecimalABinario(num) {
   2/2 = 0 => 0
   1/2 = 0 => 1
   1
+  CLARO
   */
   var res = 0, residuo = '';
   while(num > 0){
